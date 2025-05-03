@@ -1,5 +1,5 @@
 ---
-title: "Erik el Indio"
+title: "Daniel Ramos"
 image: media/erik.headshot.jpg
 toc: false
 about:
@@ -12,7 +12,7 @@ about:
 ---
 
 ```{r}
-# Erik smells like an indio
+# Andres
 ```
 
-i repeat, erik smells like an indio
+Daniel Ramos
