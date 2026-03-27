@@ -11,11 +11,10 @@ about:
       href: https://www.linkedin.com
 ---
 
-## Education
+### Education
 
-**B.S. in Statistics and Data Science**
+**B.S. in Statistics and Data Science**\
 University of California, Santa Barbara | March 2026
 
-**B.A. in Economics and Accounting**
+**B.A. in Economics and Accounting**\    
 University of California, Santa Barbara | March 2026
-
