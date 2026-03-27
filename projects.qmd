@@ -2,8 +2,8 @@
 title: "Academic Projects"
 ---
 
-Time Series Analysis of U.S. Quarterly GDP Growth
-PSTAT 174 - Time Series | UC Santa Barbara | March 2025
+### Time Series Analysis of U.S. Quarterly GDP Growth
+*PSTAT 174 - Time Series | UC Santa Barbara | March 2025*
 
 :::: {layout="[70,30]"}
 ::: {}
