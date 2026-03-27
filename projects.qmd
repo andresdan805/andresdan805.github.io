@@ -11,7 +11,7 @@ This project analyzes quarterly U.S. real GDP growth from 1950 to 2024
 using SARIMA and ARMA-GARCH time series models, capturing seasonal patterns 
 and time-varying volatility with an 8-quarter forecast.
 
-[PDF](files/Time Series Report.pdf)   [R Code](files/174-Report.pdf#page=14)
+[PDF](files/Time Series Report.pdf)   [R Code](files/Time Series Report.pdf#page=14)
 :::
 
 ::: {}
