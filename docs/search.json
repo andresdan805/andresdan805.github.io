@@ -11,7 +11,7 @@
     "href": "index.html",
     "title": "Daniel Ramos",
     "section": "",
-    "text": "# Andres\n\nDaniel Andres"
+    "text": "B.S. in Statistics and Data Science University of California, Santa Barbara | March 2026\nB.A. in Economics and Accounting University of California, Santa Barbara | March 2026"
   },
   {
     "objectID": "projects.html",
@@ -26,5 +26,12 @@
     "title": "Academic Projects",
     "section": "",
     "text": "PSTAT 174 - Time Series | UC Santa Barbara | March 2025\n\n\n\n\n\n\nThis project analyzes quarterly U.S. real GDP growth from 1950 to 2024 using SARIMA and ARMA-GARCH time series models, capturing seasonal patterns and time-varying volatility with an 8-quarter forecast.\nPDF R Code"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Daniel Ramos",
+    "section": "",
+    "text": "B.S. in Statistics and Data Science University of California, Santa Barbara | March 2026\nB.A. in Economics and Accounting University of California, Santa Barbara | March 2026"
   }
 ]
