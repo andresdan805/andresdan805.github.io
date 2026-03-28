@@ -4,7 +4,7 @@ title: "Academic Projects"
 ### Data-Driven Patterns in Elliptic Curves
 *Undergraduate Research | UCSB Direct Reading Program | January – June 2025*
 
-:::: {layout="[75,25]"}
+:::: {layout="[85,15]"}
 ::: {}
 Collaborated with a PhD candidate in the UCSB Math Department to explore statistical patterns in elliptic curves. 
 Analyzed 1 million curves from the LMFDB using Python and PostgreSQL, and built classification models to predict curve rank.
