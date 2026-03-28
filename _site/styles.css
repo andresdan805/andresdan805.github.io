@@ -1,4 +1,12 @@
 /* css styles */
 .quarto-about-jolla .about-contents {
-  text-align: left;
+  text-align: left !important;
+}
+
+.quarto-about-jolla h2 {
+  text-align: left !important;
+}
+
+.quarto-about-jolla p {
+  text-align: left !important;
 }
