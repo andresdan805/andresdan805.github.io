@@ -1,12 +1,7 @@
 ---
 title: "About"
-about:
-  template: jolla
-  links:
-    - text: LinkedIn
-      href: https://www.linkedin.com/in/andresdan/
-      
 ---
+
 
 ### Education
 
@@ -15,3 +10,9 @@ University of California, Santa Barbara | March 2026
 
 **B.A. in Economics and Accounting**\    
 University of California, Santa Barbara | March 2026
+
+<br>
+
+[LinkedIn](https://www.linkedin.com/in/andresdan/){.btn .btn-outline-primary} 
+[Resume](media/resume.pdf){.btn .btn-outline-primary}
+[Email](mailto:andresdan23@gmail.com){.btn .btn-outline-primary}
