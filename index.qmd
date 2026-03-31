@@ -5,7 +5,7 @@ toc: false
 about:
   template: jolla
   image-shape: round
-  image-width: 24em
+  image-width: 19em
 ---
 
 Recent UC Santa Barbara graduate interested in the intersection of statistics and finance. Proficient in R, Python, and Excel.
