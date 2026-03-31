@@ -14,5 +14,5 @@ University of California, Santa Barbara | March 2026
 <br>
 
 [LinkedIn](https://www.linkedin.com/in/andresdan/){.btn .btn-outline-primary} 
-[Resume](media/Resume_Website.docx){.btn .btn-outline-primary}
+[Resume](media/Resume_Website.pdf){.btn .btn-outline-primary}
 [Email](mailto:andresdan23@gmail.com){.btn .btn-outline-primary}
