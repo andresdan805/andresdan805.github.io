@@ -3,20 +3,20 @@ project:
   output-dir: docs
   
 website:
-  title: "andresdan805.github.io"
+  title: "Daniel Ramos"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - href: projects.qmd
         text: Projects
-      - about.qmd
+      - href: about.qmd
+        text: About
 
-format:
-  html:
-    theme: cosmo
-    css: styles.css
-    toc: true
+
+html:
+  theme: [cosmo, styles.scss]
+  toc: true
 
 editor: visual
 
