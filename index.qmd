@@ -1,6 +1,6 @@
 ---
 title: "Daniel Ramos"
-image: media/erik.headshot.jpg
+image: media/my_pfp.jpg
 toc: false
 about:
   template: jolla
