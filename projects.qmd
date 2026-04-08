@@ -43,7 +43,7 @@ and time-varying volatility with an 8-quarter forecast.
 retirement fund over a 30-year horizon, assessing insolvency risk, volatility,
 and ending surplus across equity/fixed-income splits</small>
 
-[PDF](files/PSTAT_177_Final.pdf)
+[PDF](files/PSTAT_177_final.pdf)
 :::
 
 ::: {}
