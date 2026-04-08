@@ -30,7 +30,19 @@ and time-varying volatility with an 8-quarter forecast.
 
 ::: {}
 ![](media/Figure 12.png)
-:::
-::::
 
----
+
+### Pension Fund Investment Risk
+*PSTAT 177 - Financial Market Risk and Modeling | UC Santa Barbara | June 2025*
+
+:::: {layout="[70,30]"}
+::: {}
+Simulated 1,000 market scenarios to evaluate portfolio allocations for a municipal 
+retirement fund over a 30-year horizon, assessing insolvency risk, volatility, 
+and ending surplus across equity/fixed-income splits
+
+[PDF](files/PSTAT_177_final.pdf)   
+:::
+
+::: {}
+![](media/Rolling Returns.png)
